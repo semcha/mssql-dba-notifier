@@ -1,0 +1,4 @@
+pyodbc
+toml
+dacite
+pyTelegramBotAPI

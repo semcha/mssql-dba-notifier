@@ -1,0 +1,10 @@
+[[servers]]
+host_name = "localhost"
+
+[telegram]
+api_token = ""
+chat_id = ""
+
+[alert]
+disk_free_space_mb = 20480
+disk_free_space_percent = 0.05
